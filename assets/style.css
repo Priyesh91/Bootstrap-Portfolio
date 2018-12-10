@@ -55,4 +55,6 @@ footer {
   border-top: 8px solid #4aaaa5;
   height: 50px;
 }
-
+ h3 {
+   font-size:20px;
+ }
